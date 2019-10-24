@@ -27,3 +27,4 @@ https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
 
 
 Please keep adding any new applications you have found or thought of!
+Signing off codesniper99
