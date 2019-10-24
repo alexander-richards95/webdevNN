@@ -24,3 +24,6 @@ In this post, we’ll teach a neural network how to code a basic a HTML and CSS 
 3) Rendered output
 
 https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+
+
+Please keep adding any new applications you have found or thought of!
